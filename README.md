@@ -240,3 +240,6 @@ This repository serves as the official landing page for TomTom HOME. The softwar
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of TomTom HOME today!**
+
+---
+**Last updated:** 2026-09-11 11:05:52 UTC
