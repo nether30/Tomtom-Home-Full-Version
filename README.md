@@ -242,4 +242,4 @@ This repository serves as the official landing page for TomTom HOME. The softwar
 **Get the most recent version of TomTom HOME today!**
 
 ---
-**Last updated:** 2026-09-12 19:07:46 UTC
+**Last updated:** 2026-09-12 22:09:49 UTC
